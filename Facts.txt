@@ -1,0 +1,19 @@
+Orders
+
+Number of orders: 226424
+Completed oreders: 46292 (20%)
+
+
+Products
+
+Number of products: 10527
+
+Revenue
+
+Total revenue for 2017+2018: 15,814,563.91
+2017    12,339,632.82
+2018     3,474,931.10
+
+Time facts:
+
+Database time period: 2017-01-01 - 2018-03-14
